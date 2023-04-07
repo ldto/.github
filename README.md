@@ -1,4 +1,4 @@
 # .github
 
 ## Intrduction
-Default files for [@ldto](https://github.com/ldto) repositories.
+Default files for [@LDTO](https://github.com/ldto) repositories.
